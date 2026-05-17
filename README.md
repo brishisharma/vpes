@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-    ZTNET - Self-Hosted ZeroTier network controller.
+    VPES - Virtual Private Ethernet Switch
     <br />
     <br />
     <a href="https://github.com/sinamics/ztnet/issues/new?assignees=&labels=bug&projects=&template=bug_template.yml&title=%5BBug%5D%3A+">Bug Report</a>
@@ -31,7 +31,7 @@
 </p>
 <br />
 
-ZTNET - ZeroTier Controller Web UI is a robust and versatile application designed to transform the management of ZeroTier networks. Now featuring **organization** and **multi-user** support, it elevates the network management experience, accommodating team-based environments and larger organizations seamlessly.
+VPES - ZeroTier Controller Web UI is a robust and versatile application designed to transform the management of ZeroTier networks. Now featuring **organization** and **multi-user** support, it elevates the network management experience, accommodating team-based environments and larger organizations seamlessly.
 
 With a rich palette of features, and an intuitive user interface, ZTNET embodies a paradigm shift in network management experience. It elegantly handles the complexity, letting you focus on what you do best.
 
