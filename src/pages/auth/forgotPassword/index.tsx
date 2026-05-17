@@ -36,7 +36,7 @@ const ForgotPassword = () => {
 						</Link>
 					</div>
 					<div className="pt-5 text-center text-xs text-gray-400">
-						<span>Copyright © {new Date().getFullYear()} Kodea Solutions</span>
+						<span>Copyright © {new Date().getFullYear()} Kangla Enterprises Private Limited</span>
 					</div>
 				</div>
 			</div>
