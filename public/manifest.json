@@ -1,7 +1,7 @@
 {
-  "name": "ZTNET",
-  "short_name": "ZTNET",
-  "description": "ZeroTier Web UI for Private Controllers",
+  "name": "VPES",
+  "short_name": "VPES",
+  "description": "VPES Virtual Private Ethernet Switch",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
