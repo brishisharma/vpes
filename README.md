@@ -31,14 +31,14 @@
 </p>
 <br />
 
-VPES - ZeroTier Controller Web UI is a robust and versatile application designed to transform the management of ZeroTier networks. Now featuring **organization** and **multi-user** support, it elevates the network management experience, accommodating team-based environments and larger organizations seamlessly.
+VPES - Virtual Private Ethernet Switch is a robust and versatile application designed to transform the management of ZeroTier networks. Now featuring **organization** and **multi-user** support, it elevates the network management experience, accommodating team-based environments and larger organizations seamlessly.
 
-With a rich palette of features, and an intuitive user interface, ZTNET embodies a paradigm shift in network management experience. It elegantly handles the complexity, letting you focus on what you do best.
+With a rich palette of features, and an intuitive user interface, VPES embodies a paradigm shift in network management experience. It elegantly handles the complexity, letting you focus on what you do best.
 
 ### [See Installation Instruction](https://ztnet.network/installation/docker-compose)
 
 ## 📷 Images
-View the following images for a visual overview of the ZTNet application:
+View the following images for a visual overview of the VPES application:
 <details>
 <summary>Organization Page</summary>
 
@@ -97,7 +97,7 @@ View the following images for a visual overview of the ZTNet application:
 
 ## ⚠️ Disclaimer:
 
-Please note that ZTNet is currently in BETA. While this application aims to make managing ZeroTier networks easier, it is provided "as is" without any warranties or guarantees of any kind. As this is a beta release, you may encounter bugs or unexpected behavior. By using this application, you acknowledge and accept full responsibility for all actions and consequences resulting from its use.
+Please note that VPES is currently in BETA. While this application aims to make managing ZeroTier networks easier, it is provided "as is" without any warranties or guarantees of any kind. As this is a beta release, you may encounter bugs or unexpected behavior. By using this application, you acknowledge and accept full responsibility for all actions and consequences resulting from its use.
 <!-- 
 ## 📄 Attribution and Licensing Notice for Third-Party Components
 This project utilizes the **mkworld** tool, written in Go, to generate the custom planet file. While the original mkworld tool was developed by ZeroTier, the version we are using was adapted and re-implemented in Go by Patrick Young (@kmahyyg). This Go adaptation is licensed under the GNU General Public License v3.0. We would like to express our appreciation to Patrick Young (@kmahyyg) for his efforts in creating this Go version, which has benefited our project.
