@@ -31,7 +31,7 @@ const Login = ({ oauthExclusiveLogin, oauthEnabled }) => {
 		<>
 			<Head>
 				<title>{title}</title>
-				<meta name="description" content="ZTNET - Zerotier Controller Web UI" />
+				<meta name="description" content="VPES - Virtual Private Ethernet Switch" />
 				<meta name="robots" content="noindex, nofollow" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
