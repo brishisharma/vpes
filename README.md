@@ -90,7 +90,6 @@ View the following images for a visual overview of the ZTNet application:
 <details>
 <summary>User Profile</summary>
 
-![Networks](docs/images/showcase/profile.jpg)
 
 </summary>
 </details>
