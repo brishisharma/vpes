@@ -23,7 +23,7 @@ const Register = () => {
 		<div>
 			<Head>
 				<title>{title}</title>
-				<meta name="description" content="ZTNET User Registration" />
+				<meta name="description" content="VPES User Registration" />
 				<meta name="robots" content="noindex, nofollow" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
@@ -43,7 +43,7 @@ const Register = () => {
 					</Link>
 				</div>
 				<div className="pt-5 text-center text-xs text-gray-400">
-					<span>Copyright © {new Date().getFullYear()} Kodea Solutions</span>
+					<span>Copyright © {new Date().getFullYear()} Kangla Enterprises Private Limited</span>
 				</div>
 			</div>
 		</div>
