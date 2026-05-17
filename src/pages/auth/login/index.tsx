@@ -96,7 +96,7 @@ const Login = ({ oauthExclusiveLogin, oauthEnabled }) => {
 					) : null}
 
 					<div className="pt-5 text-center text-xs text-gray-400">
-						<span>Copyright © {currentYear} Kodea Solutions</span>
+						<span>Copyright © {currentYear} Kangla Enterprises Private Limited</span>
 					</div>
 				</div>
 			</div>
