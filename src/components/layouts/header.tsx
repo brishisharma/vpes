@@ -42,7 +42,7 @@ const Header = forwardRef<HTMLDivElement, React.HTMLProps<HTMLDivElement>>(
 								src="/images/ztnet_200x178.png"
 							/>
 							<span className="ml-1 text-2xl font-bold uppercase leading-10 text-accent zt-color">
-								{globalOptions?.siteName || "ZTNET"}
+								{globalOptions?.siteName || "VPES"}
 							</span>
 						</Link>
 					</div>
